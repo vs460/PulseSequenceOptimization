@@ -1,1 +1,1 @@
-# Pulse-Sequence-Optimization-
+# PulseSequenceOptimization
